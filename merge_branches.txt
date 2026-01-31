@@ -8,3 +8,11 @@ Updating d2efa3d..e77134a
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
+
+
+ * branch            main       -> FETCH_HEAD
+Updating 94c2a98..6af094f
+Fast-forward
+ merge_branches.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 merge_branches.txt
